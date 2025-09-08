@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Helmy</h1>
-<h3 align="center">Technical Architect from Egypt</h3>
+<h3 align="center">Solution Architect from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahelmy&label=Profile%20views&color=0e75b6&style=flat" alt="ahelmy" /> </p>
 
